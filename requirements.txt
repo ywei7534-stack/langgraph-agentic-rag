@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-deepseek
+langchain-ollama
+langchain-community
+langchain-text-splitters
+faiss-cpu
+beautifulsoup4
+requests
+pypdf
+tavily-python
